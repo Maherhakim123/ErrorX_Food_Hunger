@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51483505346",
+    "project_id": "foodhunger-574ff",
+    "storage_bucket": "foodhunger-574ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51483505346:android:9c27638c5160780bee815b",
+        "android_client_info": {
+          "package_name": "com.example.food_hunger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTSmGy8ZwtF_j06bBLV7M86K6v0M5TiPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
